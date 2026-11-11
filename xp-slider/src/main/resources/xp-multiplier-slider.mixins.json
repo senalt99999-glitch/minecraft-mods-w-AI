@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.xpslider.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "OptionsScreenMixin",
+    "PlayerMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
